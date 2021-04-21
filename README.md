@@ -22,3 +22,5 @@ Dataset & Problem Definition: <a href="https://www.kaggle.com/c/jigsaw-toxic-com
             - BERT pre-trained
     - Models:
             - BET fine-tuned
+
+Final Report: <a href="https://github.com/prabhnoor0212/Minimizing-Un-intended-Bias-in-Toxic-Text-Classification/blob/main/EECS_5327_project_prabhnoor.pdf">link</a>
